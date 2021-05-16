@@ -1,0 +1,37 @@
+body{font-family:cursive,brush script MT, lucida handwriting;
+	background-color:gold;
+	margin:0px;
+}
+.footer{background-color:black;
+color:white;
+}
+.bell{color:white;
+background-color:Black;
+}
+h2{color:white;
+background-color:black;
+text-align:center;
+clear:both;
+border-left: solid 5px white;
+}
+.albert{background-image: ;
+text-align:center;
+}
+
+.float{float:left;
+margin:10px;
+padding:10px;
+}
+
+br{padding:30px
+}
+h4 :hover{color:blue;
+}
+
+
+
+
+
+
+
+
